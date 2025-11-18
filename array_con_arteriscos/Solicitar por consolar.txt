@@ -1,0 +1,7 @@
+Solicitar por consolar introducir en un array de 10 posiciones numeros del 1 al 5.(Random)
+En una Funcion a partir de un Array() Hay que devolver un Array, que tiene que llevar en cada una de las siguientes posiciones el numero total de cada numero que hay.¿Qué cantidad de numeros hay de todos los que tenemos en el array?
+
+Cuando llamemos al array en el Main, "El 1 e repite tres veces" (Ponemos ***), y Así todos los numeros.
+
+	
+	
