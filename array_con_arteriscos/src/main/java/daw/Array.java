@@ -33,6 +33,7 @@ public class Array {
         }
         return array1;
     }
+    //Tercera_prueba
     //Contador de *
     //[1,1,2,2,3,3,4,5,5,5];
     public static int[] contador(int[]array){
