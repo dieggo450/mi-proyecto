@@ -7,6 +7,7 @@ public class Array {
     public static Random rd = new Random();
     public static Scanner sc = new Scanner(System.in);
 //Prueba_1
+//Prueba_02
     /*
      * Solicitar por consolar introducir en un array de 10 posiciones numeros del 1 al 5.(Random)
         En una Funcion a partir de un Array() Hay que devolver un Array, que tiene que llevar en cada una de las siguientes posiciones el numero total de cada numero que hay.¿Qué cantidad de numeros hay de todos los que tenemos en el array?
