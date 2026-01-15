@@ -21,7 +21,7 @@ public class Array {
      * 
      */
     public static void main(String[] args) {
-        int[] arrayMain = array();
+        int[] arrayMain = Rellenararray();
 
         for (int i : arrayMain) {
             System.out.print(i + " ");
